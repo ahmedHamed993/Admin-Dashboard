@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Admin Dashboard 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description 
+this website provide statistics of the company with some of charts line,pie,......etc and all employees, customers and products for this company using syncfusion pacakage with reactjs and tailwindcss to make it and provide some small apps like calendar to add events and colorpicker  .
 
-## Available Scripts
+## Technologies Used 
 
-In the project directory, you can run:
+- React.Js
+- React Router 
+- TailwindCSS
+- Syncfusion 
 
-### `npm start`
+## Some Images from Website 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Home page introduce overview of the statistics 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/68183022/210270410-cb788d81-406c-4127-80dc-4113d650774a.png)
 
-### `npm test`
+- Customer Page introduce all customer and their info , admin can remove or edit and some info 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/68183022/210270612-708ede56-2aab-427b-bb83-79955359fd4b.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Line Chart Page 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/68183022/210270640-505c6292-5913-4000-8d49-912436c53ca6.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Color Mapping Chart 
 
-### `npm run eject`
+![image](https://user-images.githubusercontent.com/68183022/210270671-e99932b7-ed58-418a-bd48-6a6a4276d02f.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+_their is more pages that provides more charts and mini apps facilit using app_
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Website URL
+https://admin-dashb0ard.vercel.app/
